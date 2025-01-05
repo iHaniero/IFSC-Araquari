@@ -1,0 +1,119 @@
+.bold {
+    font-weight: bolder;
+}
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 12px;
+    color: #000;
+    background-image: url(../imagens/bgtile-css.gif);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+p.margens {
+    margin-right: 220px;
+    margin-bottom: 50px;
+}
+
+a:link {
+    color: #336699;
+}
+
+a:visited {
+    color: #666666;
+}
+
+a:hover {
+    color: #663366;
+    text-decoration: none;
+}
+
+a:active {
+    color: #663300;
+}
+
+h {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.4em;
+}
+
+h1 {
+    font-size: 36px;
+    color: #448888;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: #226666;
+}
+
+h3 {
+    font-size: 14px;
+    color: #333333;
+}
+
+dt {
+    color: #333333;
+    font-weight: bold;
+}
+
+dd {
+    font-style: italic;
+    margin-bottom: 1.5em;
+    margin-top: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+dl {
+    margin: 1.5em;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.byline {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 2.5em;
+    padding-bottom: 0.5em;
+    border-bottom: solid, 1px, #666666;
+}
+
+.figure {
+    margin-left: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #666666;
+    margin: 0;
+}
+
+#toc {
+    background-color: #FFFFFF;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: solid, 1px, #666666;
+    margin-right: solid, 1px, #666666;
+    border-right: solid, 6px, #666666;
+    border-bottom: solid, 6px, #666666;
+}
+
+.toc {
+    padding-left: 2em;
+}
